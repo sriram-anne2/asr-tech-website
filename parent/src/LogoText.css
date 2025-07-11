@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  font-family: 'Unica One', sans-serif;
+  background: linear-gradient(to bottom, #eeebe5, #fefefe);
+  scroll-behavior: smooth;
+}
+
+.container {
+  padding-top: 4rem; /* ✅ instead of full screen */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;       /* ✅ let it size based on content */
+}
+
+.heading {
+  color: #0f172a;
+  font-size: 5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
