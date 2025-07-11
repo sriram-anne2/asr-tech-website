@@ -24,3 +24,20 @@ body {
   font-weight: 600;
   text-transform: uppercase;
 }
+
+/* existing styles... */
+
+.pulse {
+  animation: pulseAnimation 2.5s ease-in-out infinite;
+}
+
+@keyframes pulseAnimation {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+}
