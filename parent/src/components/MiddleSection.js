@@ -7,7 +7,7 @@ const MiddleSection = () => {
       <h2>Upcoming Projects</h2>
       <div className="projects">
         <div className="project-card">
-          <img src="/economist-splash.png" alt="Economist App" />
+          <img src={`${process.env.PUBLIC_URL}/economist-splash.png`} alt="Economist App" />
           <h3>Economist App</h3>
           <p>Personal finance and credit card optimization platform.</p>
           <a
