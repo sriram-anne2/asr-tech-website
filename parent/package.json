@@ -2,7 +2,7 @@
   "name": "asr-tech-webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://the-economist-org.github.io/website",
+  "homepage": ".",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.3.1",
