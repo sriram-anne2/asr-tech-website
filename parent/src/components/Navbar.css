@@ -16,6 +16,19 @@
   cursor: pointer;
 }
 
+.nav-brand {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav-brand .nav-logo {
+  height: 40px;
+  width: auto;
+  margin-right: 10px;
+}
+
+
 .nav-links {
   display: flex;
   gap: 1.5rem;

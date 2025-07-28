@@ -15,7 +15,8 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="nav-brand" onClick={() => scrollToSection('top')}>
-        ASR Tech
+        <img src="/asr-logo.svg" alt="ASR Logo" className="nav-logo" />
+        <span>ASR Tech</span>
       </div>
       <div className={`nav-links ${open ? 'active' : ''}`}>
         <button onClick={() => scrollToSection('projects')}>Projects</button>
