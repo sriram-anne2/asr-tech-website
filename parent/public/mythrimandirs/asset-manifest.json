@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/mythrimandirs/static/css/main.e3e61749.css",
-    "main.js": "/mythrimandirs/static/js/main.839be0bc.js",
-    "static/media/background.jpeg": "/mythrimandirs/static/media/background.f5a2696f68a23bd28b11.jpeg",
+    "main.css": "/mythrimandirs/static/css/main.53e7927c.css",
+    "main.js": "/mythrimandirs/static/js/main.a9fdf256.js",
     "index.html": "/mythrimandirs/index.html",
-    "main.e3e61749.css.map": "/mythrimandirs/static/css/main.e3e61749.css.map",
-    "main.839be0bc.js.map": "/mythrimandirs/static/js/main.839be0bc.js.map"
+    "main.53e7927c.css.map": "/mythrimandirs/static/css/main.53e7927c.css.map",
+    "main.a9fdf256.js.map": "/mythrimandirs/static/js/main.a9fdf256.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3e61749.css",
-    "static/js/main.839be0bc.js"
+    "static/css/main.53e7927c.css",
+    "static/js/main.a9fdf256.js"
   ]
 }
