@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mythrimandirs/static/css/main.e3e61749.css",
+    "main.js": "/mythrimandirs/static/js/main.839be0bc.js",
+    "static/media/background.jpeg": "/mythrimandirs/static/media/background.f5a2696f68a23bd28b11.jpeg",
+    "index.html": "/mythrimandirs/index.html",
+    "main.e3e61749.css.map": "/mythrimandirs/static/css/main.e3e61749.css.map",
+    "main.839be0bc.js.map": "/mythrimandirs/static/js/main.839be0bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3e61749.css",
+    "static/js/main.839be0bc.js"
+  ]
+}
